@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463820528934",
+    "project_id": "prepmate-6f171",
+    "storage_bucket": "prepmate-6f171.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463820528934:android:34ce0ff1fb7a4d4678b5e7",
+        "android_client_info": {
+          "package_name": "com.prepmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFm3bYEmuoVanx6QLwasw_nfhf8ws-2nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
